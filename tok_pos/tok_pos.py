@@ -1,8 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Created on Thu Aug  4 13:09:07 2022
-
 @author: yuyingren
 """
 from sklearn.feature_extraction import DictVectorizer
